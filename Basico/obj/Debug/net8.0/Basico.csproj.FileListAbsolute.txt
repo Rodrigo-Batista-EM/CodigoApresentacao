@@ -1,0 +1,14 @@
+C:\WorkRodrigo\CodigoApresentação\Basico\bin\Debug\net8.0\Basico.exe
+C:\WorkRodrigo\CodigoApresentação\Basico\bin\Debug\net8.0\Basico.deps.json
+C:\WorkRodrigo\CodigoApresentação\Basico\bin\Debug\net8.0\Basico.runtimeconfig.json
+C:\WorkRodrigo\CodigoApresentação\Basico\bin\Debug\net8.0\Basico.dll
+C:\WorkRodrigo\CodigoApresentação\Basico\bin\Debug\net8.0\Basico.pdb
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.AssemblyInfoInputs.cache
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.AssemblyInfo.cs
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.csproj.CoreCompileInputs.cache
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.dll
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\refint\Basico.dll
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.pdb
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\Basico.genruntimeconfig.cache
+C:\WorkRodrigo\CodigoApresentação\Basico\obj\Debug\net8.0\ref\Basico.dll
